@@ -1,4 +1,4 @@
-## ##YAML Template
+#cucumber.yml config
 default: --profile html_report --profile chrome
 html_report: --format progress --format html --out=features_report.html
 firefox: BROWSER=firefox
