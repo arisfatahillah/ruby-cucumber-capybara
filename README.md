@@ -1,5 +1,5 @@
 # Automation in Web Using Ruby, Selenium And Capybara
-Software Automation Testing using selenium, ruby and capybara
+Software Automation Testing Web using selenium, ruby and capybara
 
 ## Installation
 1. [Git](https://www.atlassian.com/git/tutorials/install-git)
