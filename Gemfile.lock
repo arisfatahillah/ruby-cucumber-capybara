@@ -53,6 +53,7 @@ GEM
       cucumber-cucumber-expressions (~> 12.1, >= 12.1.1)
       cucumber-messages (~> 15.0, >= 15.0.0)
     diff-lcs (1.5.0)
+    dotenv (2.7.6)
     ffi (1.15.5)
     i18n (1.10.0)
       concurrent-ruby (~> 1.0)
@@ -114,6 +115,7 @@ PLATFORMS
 DEPENDENCIES
   capybara (~> 3.35)
   cucumber (~> 6.1.0)
+  dotenv (~> 2.7.6)
   rspec (~> 3.10.0)
   selenium-webdriver (~> 3.142.7)
   site_prism (~> 3.7.1)
