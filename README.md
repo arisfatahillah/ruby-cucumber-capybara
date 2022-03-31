@@ -1,4 +1,4 @@
-# Automation in Web
+# Automation in Web Using Ruby, Selenium And Capybara
 Software Automation Testing using selenium, ruby and capybara
 
 ## Installation
