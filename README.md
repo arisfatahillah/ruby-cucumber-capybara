@@ -20,9 +20,10 @@ Software Automation Testing using selenium, ruby and capybara
 For your convenient please put the file based on the folder structure.
 
 ```
+|config
 |features
 │   ├── helper
-│   ├── page_object
+│   ├── pages
 │   ├── step_definitions
 │   ├── scenario
 |Gemfile
